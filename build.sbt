@@ -1,4 +1,4 @@
-name := "DomoScala"
+name := "DomoScalaB2C"
 
 version := "1.0-SNAPSHOT"
 
